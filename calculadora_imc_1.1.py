@@ -6,16 +6,16 @@ def classificar_imc(imc):
     if (imc < 18.5):
         print("Classificação: Abaixo do peso")
         print("Aviso: Seu peso está abaixo do recomendado.")
-    elif (18.5 <= imc < 24.9):
+    elif (18.5 <= imc < 25):
         print("Classificação: Peso normal")
         print("Parabéns! Você está dentro do peso adequado.")
-    elif (25 <= imc < 29.9):
+    elif (25 <= imc < 30):
         print("Classificação: Sobrepeso")
         print("Aviso: Atenção! Seu peso está acima do recomendado.")
-    elif (30 <= imc < 34.9):
+    elif (30 <= imc < 35):
         print("Classificação: Obesidade Grau I")
         print("Aviso: Cuidado! Procure acompanhamento médico e nutricional.")
-    elif (35 <= imc < 39.9):
+    elif (35 <= imc < 40):
         print("Classificação: Obesidade Grau II")
         print("Aviso: Cuidado! Procure acompanhamento médico e nutricional.")
     else:  
