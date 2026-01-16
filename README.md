@@ -1,5 +1,7 @@
 # ⚖️ Calculadora de IMC (Índice de Massa Corporal)
 
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
+
 Projeto desenvolvido em Python para cálculo e classificação de IMC, com foco em estrutura de dados, funções e experiência do usuário (UX).
 
 ## 📝 Histórico de Versões
